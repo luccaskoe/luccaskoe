@@ -11,8 +11,7 @@ technology I use: <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<div align="left">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</div>
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
 
